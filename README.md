@@ -7,7 +7,7 @@
 **Tools Used:** Excel (Data Cleaning + Dashboard), SQL (Analysis)
 
 ## 📈 Dashboard Preview
-![Dashboard](Dashboard/dashboard.png)
+![Dashboard](Dashboard/Dashboard.png)
 
 
 
