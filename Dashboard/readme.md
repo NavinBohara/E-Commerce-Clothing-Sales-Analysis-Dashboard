@@ -2,7 +2,7 @@
 
 ## 📈 Dashboard Preview
 
-<img width="1380" height="781" alt="image" src="https://github.com/user-attachments/assets/b941862b-6b8b-4b17-8be4-78d416325571" />
+<img width="1380" height="781" alt="image" src="Dashboard.png" />
 
 File: UrbanStyle Analysis.xlsx
 This is the final interactive dashboard built in Excel.
