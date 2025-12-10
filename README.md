@@ -7,8 +7,9 @@
 **Tools Used:** Excel (Data Cleaning + Dashboard), SQL (Analysis)
 
 ## 📈 Dashboard Preview
+![Dashboard](Dashboard/dashboard.png)
 
-![Retail Sales Analysis](Dashboard.png)
+
 
 ---
 
