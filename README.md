@@ -6,6 +6,10 @@
 
 **Tools Used:** Excel (Data Cleaning + Dashboard), SQL (Analysis)
 
+## 📈 Dashboard Preview
+
+<img width="1380" height="781" alt="image" src="Dashboard.png" />
+
 ---
 
 ## 📌 **Project Overview**
