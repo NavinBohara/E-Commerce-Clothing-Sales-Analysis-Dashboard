@@ -8,7 +8,7 @@
 
 ## 📈 Dashboard Preview
 
-<img width="1380" height="781" alt="image" src="Dashboard.png" />
+![Retail Sales Analysis](Dashboard.png)
 
 ---
 
