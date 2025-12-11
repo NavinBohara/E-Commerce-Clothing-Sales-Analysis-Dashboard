@@ -1,6 +1,6 @@
 
 
-# 📊 **E-Commerce Clothing Sales Performance Dashboard (2022)**
+# 📊 **E-Commerce Clothing Sales Performance Dashboard **
 
 ### **UrbanStyle Fashions – End-to-End Analytics Project**
 
